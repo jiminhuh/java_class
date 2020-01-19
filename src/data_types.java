@@ -13,5 +13,8 @@ public class data_types {
 
         System.out.println(myMaxByteValue);
         System.out.println(myMinByteValue);
+
+        byte myNewByteValue = (byte)(myMinByteValue / 2);
+
     }
 }
